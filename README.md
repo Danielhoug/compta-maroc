@@ -1,0 +1,1 @@
+Ceci est un petit projet d'un logiciel de comptabilité.
